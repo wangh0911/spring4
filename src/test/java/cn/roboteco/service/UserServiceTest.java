@@ -2,6 +2,7 @@ package cn.roboteco.service;
 
 import java.util.Date;
 
+import org.springframework.context.ApplicationContext;
 import org.springframework.test.context.testng.AbstractTransactionalTestNGSpringContextTests;
 import org.testng.annotations.*;
 import org.springframework.beans.factory.annotation.Autowired;
