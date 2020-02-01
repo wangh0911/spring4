@@ -10,3 +10,9 @@ Spring Resource 资源加载
 
 ### feature-beanfactory
 BeanFactory 
+
+### feature-applicationcontext
+ApplicationContext、 WebApplicationContext
+
+### feature-beanlifecycle
+Bean生命周期
